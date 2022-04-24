@@ -63,5 +63,5 @@ async def mmr(ctx, *arg):
 
 
 
-bot.run("ODY0MzYzMDU1OTExNzk2NzM2.YO0W0w.Cbafqg4IEguQezduR8eG00UGJVo")
+bot.run()
 
